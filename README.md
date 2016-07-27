@@ -1,2 +1,3 @@
-# hyperterm-material-dark
-A material design based dark theme
+# Hyperterm Material Dark
+
+A material design based dark theme for [Hyperterm](https://hyperterm.org/).

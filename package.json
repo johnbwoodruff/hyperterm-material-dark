@@ -1,10 +1,10 @@
 {
   "name": "hyperterm-material-dark",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/jbw91/hyperterm-material-dark"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbw91/hyperterm-material-dark"
   },
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A material design based dark theme for hyperterm.",
   "main": "index.js",
   "keywords": [

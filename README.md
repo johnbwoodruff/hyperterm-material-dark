@@ -9,7 +9,7 @@ A material design based dark theme for [Hyperterm](https://hyperterm.org/).
 Simply add this plugin to your array of plugins in `~/.hyperterm.js`:
 
 ```javascript
-plugins: [`hyperterm-material`]
+plugins: [`hyperterm-material-dark`]
 ```
 
 Save the file and you should see the theme be applied.

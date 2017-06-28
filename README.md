@@ -4,7 +4,7 @@
 
 A material design based dark theme for [Hyperterm](https://hyperterm.org/).
 
-![Hyperterm Material Dark](./images/hyperterm-material-dark.png)
+![Hyperterm Material Dark](https://raw.githubusercontent.com/jbw91/hyperterm-material-dark/master/images/hyperterm-material-dark.png)
 
 ## Usage
 

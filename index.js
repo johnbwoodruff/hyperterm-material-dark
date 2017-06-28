@@ -8,7 +8,7 @@ const colors = {
   magenta: '#CE93D8',
   cyan: '#00BCD4',
   white: '#FAFAFA',
-  lightBlack: '#424242',
+  lightBlack: '#807e7b',
   lightRed: '#E57373',
   lightGreen: '#8BC34A',
   lightYellow: '#FFF59D',
